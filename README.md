@@ -56,7 +56,7 @@ iv) Perform face detection with label in real-time video from webcam.
 
 ### PROGRAM:
 ## NAME: AHALYA S
-## REG NO: 2122230006
+## REG NO: 212223230006
 ```
 import cv2
 import matplotlib.pyplot as plt
